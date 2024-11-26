@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class Ejercicio_4 {
-    /* Ejercicio4: Vamos a redireccionar el resultado de la ejecución del comando tree de la
+    /* Ejercicio4.Ejercicio4: Vamos a redireccionar el resultado de la ejecución del comando tree de la
        aplicación Powershell. Queremos que la información se muestre en una ventana creada por
        nosotros para este fin. */
     public static void main(String[] args) throws IOException {
